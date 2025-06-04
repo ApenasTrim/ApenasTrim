@@ -24,19 +24,19 @@
 
 ###
 
-<h1 align="left">Olá, tudo bem?👋</h1>
+<h1 align="left">Hi, how are you? 👋</h1>
 
 ###
 
-<h3 align="left">😺  Sobre mim</h3>
+<h3 align="left">😺  About Me</h3>
 
 ###
 
-<p align="left">Me chamo Ada Brandão, tenho 17 anos e sou Técnica em Informática formada pelo IF Sudeste MG – Campus Rio Pomba. Atualmente, estou no 1º período de dois cursos: o Técnico em Administração no mesmo instituto e Análise e Desenvolvimento de Sistemas na Estácio (Polo San Raphael – Ubá).<br><br>Durante o curso técnico em Informática, desenvolvi projetos com Arduino e adquiri uma base sólida em lógica de programação. Tenho conhecimentos em linguagens como PHP, C, C++, Python, HTML, CSS, JavaScript e MySQL.<br><br>Profissional com excelente comunicação, amplo conhecimento em informática e administração, sempre buscando soluções eficientes para otimizar a rotina e garantir um serviço de qualidade.</p>
+<p align="left">Hello! My name is Ada Brandão, I’m 17 years old and a certified Computer Technician, graduated from IF Sudeste MG – Campus Rio Pomba. I am currently in the first semester of two programs: Technical Administration at the same institute and Systems Analysis and Development at Estácio (San Raphael – Ubá campus).<br><br>During my Computer Technician course, I worked on Arduino-based projects and developed a solid foundation in programming logic. I have knowledge of languages such as PHP, C, C++, Python, HTML, CSS, JavaScript, and MySQL.<br><br>A professional with excellent communication skills, strong knowledge in both IT and administration, always focused on finding efficient solutions to optimize workflows and ensure high-quality service delivery.</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens:</h3>
+<h3 align="left">🛠 Languages:</h3>
 
 ###
 
