@@ -1,71 +1,62 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/5a/1f/ab/5a1fabad077ba58aca70318db8abcd82.gif"  />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1200&pause=2000&lines=Hello,+my+name+is+Ada+Brandão.;I+study+analysis+and+systems+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ApenasTrim&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_colorFF8C00&bg_color=0d1117" alt="Ada Brandão github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasTrim&layout=compact&hide_border=true&title_color=FF8C00&text_color=FF8C00&bg_color=0d1117" />
 </div>
 
 ###
+<h1 align="left">About me </h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ada-brandão-880476290/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/adaisbrandx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/524002621372235777" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+<p align="left">Systems Analysis and Development Student, with technical backgrounds in Information Technology and Business Administration. Currently pursuing a Project Management with Agile Methodologies course at FAETEC EAD, enhancing my skills in project management, teamwork, and solution delivery. Passionate about software development, systems analysis, and technology-driven innovation, I apply my knowledge of Python, Arduino, programming fundamentals, and databases through academic and personal projects. I am seeking opportunities to turn learning into hands-on experience while contributing to the development of efficient and innovative solutions.</p>
+
+<div align="right">
+  
+[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/ada-brandão-880476290/)
+[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:a.brandao2407@gmail.com) </div>
+
+<h1 align="left"> Tech Skills </h1>
+
+### Language: 
+[![Python](https://img.icons8.com/?size40&id=13441&format=png&color=000000)]()
+ 
+### Tools:
+[![Visual Studio Code](https://img.icons8.com/?size=40&id=9OGIyU8hrxW5&format=png&color=000000)]()
+[![Git](https://img.icons8.com/?size=40&id=6Qr2kBSBemvq&format=png&color=000000)]()
+[![GitHub](https://img.icons8.com/?size=40&id=vjqZo0sZlesU&format=png&color=000000)]()
+[![Office](https://img.icons8.com/?size=40&id=37619&format=png&color=000000)]()
+[![Canva](https://img.icons8.com/?size=40&id=EZQdGLNeo7JI&format=png&color=000000)]()
+[![Trello](https://img.icons8.com/?size=40&id=21049&format=png&color=000000)]()
+[![Notion](https://img.icons8.com/?size=40&id=F6H2fsqXKBwH&format=png&color=000000)]()
+
+### Operating Systems:
+[![Windows](https://img.icons8.com/?size=40&id=M9BRw0RJZXKi&format=png&color=000000)]()
+[![MacOS](https://img.icons8.com/?size=40&id=122959&format=png&color=000000)]()
+[![Linux](https://img.icons8.com/?size=40&id=17842&format=png&color=000000)]()
+
+### Other Knowledge:
+[![HTML](https://img.icons8.com/?size=40&id=20909&format=png&color=000000)]()
+[![CSS](https://img.icons8.com/?size=40&id=7gdY5qNXaKC0&format=png&color=000000)]()
+[![C++](https://img.icons8.com/?size=40&id=TpULddJc4gTh&format=png&color=000000)]()
+[![MySQL](https://img.icons8.com/?size=40&id=hYoELNwniGhi&format=png&color=000000)]()
+[![PHP](https://img.icons8.com/?size=40&id=YrKoPXb4jv9l&format=png&color=000000)]()
+
+### Studying in this moment:
+[![Python](https://img.icons8.com/?size40&id=13441&format=png&color=000000)]()
+[![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000)]()
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ApenasTrim.ApenasTrim&"  />
-</div>
-
-###
-
-<h1 align="left">Hi, how are you? 👋</h1>
-
-###
-
-<h3 align="left">😺  About Me</h3>
-
-###
-
-<p align="left">Hello! My name is Ada Brandão, I’m 17 years old and a certified Computer Technician, graduated from IF Sudeste MG – Campus Rio Pomba. I am currently in the first semester of two programs: Technical Administration at the same institute and Systems Analysis and Development at Estácio (San Raphael – Ubá campus).<br><br>During my Computer Technician course, I worked on Arduino-based projects and developed a solid foundation in programming logic. I have knowledge of languages such as PHP, C, C++, Python, HTML, CSS, JavaScript, and MySQL.<br><br>A professional with excellent communication skills, strong knowledge in both IT and administration, always focused on finding efficient solutions to optimize workflows and ensure high-quality service delivery.</p>
-
-###
-
-<h3 align="left">🛠 Languages:</h3>
-
-###
+<h1 align="left">Complementary Skills </h1>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  
+| Areas              | Skills                                                                                   |
+|-------------------|-----------------------------------------------------------------------------------------------|
+| **Languages**    | Portuguese, English, Spanish                                                                            |
+| **Methodologies**  | Scrum, Kanban                                                                                 |
 </div>
 
-###
-
-<h3 align="left">🔥   Status :</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ApenasTrim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="100" alt="languages graph"  />
-</div>
-
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer"/>
