@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1200&pause=2000&lines=Hello,+my+name+is+Ada+Brandão.;I+study+analysis+and+systems+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -8,7 +9,7 @@
 </div>
 
 ###
-<h1 align="left">About me </h1>
+<h2 align="left">About me </h2>
 
 <p align="left">Systems Analysis and Development Student, with technical backgrounds in Information Technology and Business Administration. Currently pursuing a Project Management with Agile Methodologies course at FAETEC EAD, enhancing my skills in project management, teamwork, and solution delivery. Passionate about software development, systems analysis, and technology-driven innovation, I apply my knowledge of Python, Arduino, programming fundamentals, and databases through academic and personal projects. I am seeking opportunities to turn learning into hands-on experience while contributing to the development of efficient and innovative solutions.</p>
 
@@ -17,7 +18,7 @@
 [![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/ada-brandão-880476290/)
 [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:a.brandao2407@gmail.com) </div>
 
-<h1 align="left"> Tech Skills </h1>
+<h2 align="left"> Tech Skills </h2>
 
 ### Language: 
 [![Python](https://img.icons8.com/?size40&id=13441&format=png&color=000000)]()
@@ -42,6 +43,7 @@
 [![C++](https://img.icons8.com/?size=40&id=TpULddJc4gTh&format=png&color=000000)]()
 [![MySQL](https://img.icons8.com/?size=40&id=hYoELNwniGhi&format=png&color=000000)]()
 [![PHP](https://img.icons8.com/?size=40&id=YrKoPXb4jv9l&format=png&color=000000)]()
+[![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&labelColor=000000&logo=php&logoColor=777bb4&color=eee)](https://www.php.net/)
 
 ### Studying in this moment:
 [![Python](https://img.icons8.com/?size40&id=13441&format=png&color=000000)]()
@@ -49,7 +51,7 @@
 
 ###
 
-<h1 align="left">Complementary Skills </h1>
+<h2 align="left">Complementary Skills </h2>
 
 <div align="left">
   
