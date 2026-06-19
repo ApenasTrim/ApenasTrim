@@ -15,7 +15,7 @@
 <div align="right">
   
 [![Linkedin](https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/ada-brandão-880476290/)
-[![Gmail](https://img.icons8.com/?size=40&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:a.brandao2407@gmail.com) </div>
+[![Gmail](https://img.icons8.com/?size=40&id=P7UIlhbpWzZm&format=png&color=000000)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlGVLcvRZBMxmHGPRBfSCchMbbgtKPtgLwKZBdTPbdJJLchgrrQNGhMNfvPbgSFLPDWsmg) </div>
 
 <h2 align="left"> Tech Skills </h2>
 
